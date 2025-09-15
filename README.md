@@ -9,6 +9,8 @@ Master React and Redux. Apply modern design patterns to build apps with React Ro
 
 - 01 - How to Get Help
 
+- 02 - Join Our Community!
+
 ## Repository configuration
 Each submodule in this repository contains the code examples of the original course.
 
