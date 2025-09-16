@@ -1,0 +1,4 @@
+[submodule "mrwr-language-translation"]
+	path = mrwr-language-translation
+	url = git@github.com:ensomugnog/mrwr-language-translation.git
+	branch = main
