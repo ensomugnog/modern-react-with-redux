@@ -5,15 +5,15 @@ Master React and Redux. Apply modern design patterns to build apps with React Ro
 
 ## Course content
 
-01 - Let's Dive In!
+- [x] 01 - Let's Dive In!
 
-- 01 - How to Get Help
+  - [x] 01 - How to Get Help
 
-- 02 - Join Our Community!
+  - [x] 02 - Join Our Community!
 
-- 03 - Course Resources
+  - [x] 03 - Course Resources
 
-- 04 - Let's Build an App! [ [mrwr-language-translation](https://github.com/ensomugnog/mrwr-language-translation) -> [74c697dfaab4edee3e80e10076e7d0356bcc9557](https://github.com/ensomugnog/mrwr-language-translation/commit/74c697dfaab4edee3e80e10076e7d0356bcc9557) ]
+  - [x] 04 - Let's Build an App! [ [mrwr-language-translation](https://github.com/ensomugnog/mrwr-language-translation) -> [74c697dfaab4edee3e80e10076e7d0356bcc9557](https://github.com/ensomugnog/mrwr-language-translation/commit/74c697dfaab4edee3e80e10076e7d0356bcc9557) ]
 
 ## Repository configuration
 Each submodule in this repository contains the code examples of the original course.
