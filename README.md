@@ -33,6 +33,8 @@ Master React and Redux. Apply modern design patterns to build apps with React Ro
 
   - [x] external-links
 
+- [x] 02 - Creating Content with JSX
+
 ## Repository configuration
 Each submodule in this repository contains the code examples of the original course.
 
