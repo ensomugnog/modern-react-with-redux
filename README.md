@@ -19,8 +19,6 @@ Master React and Redux. Apply modern design patterns to build apps with React Ro
 
   - [x] 06 - A Few More Critical Questions
 
-  - [x] 006 - Core Concepts
-
   - [x] 07 - Node Setup
 
   - [x] 08 - Generating a React Project with Vite
@@ -28,6 +26,8 @@ Master React and Redux. Apply modern design patterns to build apps with React Ro
   - [x] 09 - Generating a React Project with Create React App [ [mrwr-jsx](https://github.com/ensomugnog/mrwr-jsx) -> [6c16eb50dc50c4d1b2623314f8caaf6ee513d007](https://github.com/ensomugnog/mrwr-jsx/commit/6c16eb50dc50c4d1b2623314f8caaf6ee513d007) ]
 
   - [x] 10 - What is Create React App
+
+  - [x] 006 - Core Concepts
 
   - [x] assets
 
@@ -42,6 +42,8 @@ Master React and Redux. Apply modern design patterns to build apps with React Ro
   - [x] 03 - Printing JavaScript Variables in JSX [ [mrwr-jsx](https://github.com/ensomugnog/mrwr-jsx) -> [f23a5d5cfaf951b2ec2bd8686f13b2cbe901b3a0](https://github.com/ensomugnog/mrwr-jsx/commit/f23a5d5cfaf951b2ec2bd8686f13b2cbe901b3a0) ]
 
   - [x] 04 - Shorthand JS Expressions [ [mrwr-jsx](https://github.com/ensomugnog/mrwr-jsx) -> [418aba4827155750cd78065ffec4314788b5510a](https://github.com/ensomugnog/mrwr-jsx/commit/418aba4827155750cd78065ffec4314788b5510a) ]
+
+  - [x] 05 - Exercise Overview
 
 ## Repository configuration
 Each submodule in this repository contains the code examples of the original course.
