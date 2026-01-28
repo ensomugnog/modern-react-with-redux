@@ -47,6 +47,8 @@ Master React and Redux. Apply modern design patterns to build apps with React Ro
 
   - [x] 06 - Exercise Solution [ [mrwr-quick-practice-with-jsx](https://github.com/ensomugnog/mrwr-quick-practice-with-jsx) -> [a893bdeb8231662074d4127fbf36103d3d487e52](https://github.com/ensomugnog/mrwr-quick-practice-with-jsx/commit/a893bdeb8231662074d4127fbf36103d3d487e52) ]
 
+  - [x] 07 - Typical Component Layouts [ [mrwr-jsx](https://github.com/ensomugnog/mrwr-jsx) -> [1d0e679edf90ef3de9f269b970c85bca28d3656e](https://github.com/ensomugnog/mrwr-jsx/commit/1d0e679edf90ef3de9f269b970c85bca28d3656e) ]
+
 ## Repository configuration
 Each submodule in this repository contains the code examples of the original course.
 
