@@ -37,6 +37,8 @@ Master React and Redux. Apply modern design patterns to build apps with React Ro
 
   - [x] 01 - Showing Basic Content [ [mrwr-jsx](https://github.com/ensomugnog/mrwr-jsx) -> [c97934dcb1baea6b89384649fbbb52bfb3693723](https://github.com/ensomugnog/mrwr-jsx/commit/c97934dcb1baea6b89384649fbbb52bfb3693723) ]
 
+  - [x] 02 - What is JSX
+
 ## Repository configuration
 Each submodule in this repository contains the code examples of the original course.
 
