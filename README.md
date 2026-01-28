@@ -41,6 +41,8 @@ Master React and Redux. Apply modern design patterns to build apps with React Ro
 
   - [x] 03 - Printing JavaScript Variables in JSX [ [mrwr-jsx](https://github.com/ensomugnog/mrwr-jsx) -> [f23a5d5cfaf951b2ec2bd8686f13b2cbe901b3a0](https://github.com/ensomugnog/mrwr-jsx/commit/f23a5d5cfaf951b2ec2bd8686f13b2cbe901b3a0) ]
 
+  - [x] 04 - Shorthand JS Expressions [ [mrwr-jsx](https://github.com/ensomugnog/mrwr-jsx) -> [418aba4827155750cd78065ffec4314788b5510a](https://github.com/ensomugnog/mrwr-jsx/commit/418aba4827155750cd78065ffec4314788b5510a) ]
+
 ## Repository configuration
 Each submodule in this repository contains the code examples of the original course.
 
