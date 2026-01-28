@@ -2,3 +2,7 @@
 	path = mrwr-language-translation
 	url = git@github.com:ensomugnog/mrwr-language-translation.git
 	branch = main
+[submodule "mrwr-jsx"]
+	path = mrwr-jsx
+	url = git@github.com:ensomugnog/mrwr-jsx.git
+	branch = main

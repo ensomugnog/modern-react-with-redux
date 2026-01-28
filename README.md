@@ -22,6 +22,11 @@ Master React and Redux. Apply modern design patterns to build apps with React Ro
   - [x] 006 - Core Concepts
 
   - [x] 07 - Node Setup
+
+  - [x] 08 - Generating a React Project with Vite
+
+  - [x] 09 - Generating a React Project with Create React App [ [mrwr-jsx](https://github.com/ensomugnog/mrwr-jsx) -> [6c16eb50dc50c4d1b2623314f8caaf6ee513d007](https://github.com/ensomugnog/mrwr-jsx/commit/6c16eb50dc50c4d1b2623314f8caaf6ee513d007) ]
+
 ## Repository configuration
 Each submodule in this repository contains the code examples of the original course.
 
@@ -30,7 +35,7 @@ Create a new repository on Github, then execute the following commands to link t
 
 ```
 $ cd modern-react-with-redux
-$ git submodule add -b main git@github.com:ensomugnog/mrwr-language-translation.git mrwr-language-translation
+$ git submodule add -b main git@github.com:ensomugnog/mrwr-jsx.git
 ```
 
 Using the **-b** argument means we want to follow the main branch of the new repository, and after running this command we’ll have a new directory named `mrwr-submodule/`, this directory will automaticaly checkout the main branch for you to be ready to make changes.
