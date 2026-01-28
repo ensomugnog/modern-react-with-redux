@@ -27,6 +27,8 @@ Master React and Redux. Apply modern design patterns to build apps with React Ro
 
   - [x] 09 - Generating a React Project with Create React App [ [mrwr-jsx](https://github.com/ensomugnog/mrwr-jsx) -> [6c16eb50dc50c4d1b2623314f8caaf6ee513d007](https://github.com/ensomugnog/mrwr-jsx/commit/6c16eb50dc50c4d1b2623314f8caaf6ee513d007) ]
 
+  - [x] 10 - What is Create React App
+
 ## Repository configuration
 Each submodule in this repository contains the code examples of the original course.
 
