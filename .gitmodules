@@ -6,3 +6,7 @@
 	path = mrwr-jsx
 	url = git@github.com:ensomugnog/mrwr-jsx.git
 	branch = main
+[submodule "mrwr-quick-practice-with-jsx"]
+	path = mrwr-quick-practice-with-jsx
+	url = git@github.com:ensomugnog/mrwr-quick-practice-with-jsx.git
+	branch = main
