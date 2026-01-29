@@ -3,7 +3,7 @@ Master React and Redux. Apply modern design patterns to build apps with React Ro
 
 **Course**: [https://www.udemy.com/course/react-redux](https://www.udemy.com/course/react-redux)
 
-## Course content
+## Course Content Completion (3.7%)
 
 - [x] 01 - Let's Dive In!
 
@@ -53,10 +53,12 @@ Master React and Redux. Apply modern design patterns to build apps with React Ro
 
   - [x] 09 - Converting HTML to JSX [ [mrwr-jsx](https://github.com/ensomugnog/mrwr-jsx) -> [daef59cc400854dabb2bc72241024f19bb643f95](https://github.com/ensomugnog/mrwr-jsx/commit/daef59cc400854dabb2bc72241024f19bb643f95) ]
 
-## Repository configuration
+  - [x] 10 - Applying Styling in JSX [ [mrwr-jsx](https://github.com/ensomugnog/mrwr-jsx) -> [4a797c13f1cbc897984dfe513ecd905090819734](https://github.com/ensomugnog/mrwr-jsx/commit/4a797c13f1cbc897984dfe513ecd905090819734) ]
+
+## Repository Configuration
 Each submodule in this repository contains the code examples of the original course.
 
-### Create new submodules
+### Create New Submodules
 Create a new repository on Github, then execute the following commands to link the new repository as a submodule of the main repository:
 
 ```
@@ -66,7 +68,7 @@ $ git submodule add -b main git@github.com:ensomugnog/mrwr-quick-practice-with-j
 
 Using the **-b** argument means we want to follow the main branch of the new repository, and after running this command we’ll have a new directory named `mrwr-submodule/`, this directory will automaticaly checkout the main branch for you to be ready to make changes.
 
-### Update main repository with latest submodule changes
+### Update Main Repository with Latest Submodule Changes
 First make sure the submodule changes have been commited and pushed to the orign repository, then run the following commands:
 
 ```
@@ -76,14 +78,14 @@ $ git commit -m 'mrwr-submodule'
 $ git push
 ```
 
-### Clone Repository with submodules
+### Clone Repository with Submodules
 If you want to clone a repository including its submodules you can use the --recursive parameter, use the --jobs parameter to fetch multiple submodules at the same time, download up to 8 submodules at once use --jobs 8
 
 ```
 $ git clone --recursive --jobs 8 git@github.com:ensomugnog/modern-react-with-redux.git
 ```
 
-### Delete a submodule from a repository
+### Delete a Submodule from a Repository
 Currently Git provides no standard interface to delete a submodule. To remove a submodule `mrwr-submodule` you need to:
 
 ```
@@ -92,7 +94,7 @@ $ rm -rf .git/modules/mrwr-submodule
 $ git rm -f mrwr-submodule
 ```
 
-### Checkout a commit
+### Checkout a Commit
 To checkout a Git commit, you will need the commit hash.
 
 ```
