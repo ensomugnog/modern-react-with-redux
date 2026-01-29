@@ -57,6 +57,8 @@ Master React and Redux. Apply modern design patterns to build apps with React Ro
 
   - [x] 11 - Exercise Solution [ [mrwr-practice-jsx-conversion](https://github.com/ensomugnog/mrwr-practice-jsx-conversion) -> [233085727063ab9b4b1caebbbec171583003351a](https://github.com/ensomugnog/mrwr-practice-jsx-conversion/commit/233085727063ab9b4b1caebbbec171583003351a) ]
 
+  - [x] 12 - Extracting Components [ [mrwr-jsx](https://github.com/ensomugnog/mrwr-jsx) -> [e7bdff482e5d04385ba9ba215718c9482c908fcf](https://github.com/ensomugnog/mrwr-jsx/commit/e7bdff482e5d04385ba9ba215718c9482c908fcf) ]
+
 ## Repository Configuration
 Each submodule in this repository contains the code examples of the original course.
 
