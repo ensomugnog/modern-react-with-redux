@@ -55,6 +55,8 @@ Master React and Redux. Apply modern design patterns to build apps with React Ro
 
   - [x] 10 - Applying Styling in JSX [ [mrwr-jsx](https://github.com/ensomugnog/mrwr-jsx) -> [4a797c13f1cbc897984dfe513ecd905090819734](https://github.com/ensomugnog/mrwr-jsx/commit/4a797c13f1cbc897984dfe513ecd905090819734) ]
 
+  - [x] 11 - Exercise Solution [ [mrwr-practice-jsx-conversion](https://github.com/ensomugnog/mrwr-practice-jsx-conversion) -> [233085727063ab9b4b1caebbbec171583003351a](https://github.com/ensomugnog/mrwr-practice-jsx-conversion/commit/233085727063ab9b4b1caebbbec171583003351a) ]
+
 ## Repository Configuration
 Each submodule in this repository contains the code examples of the original course.
 
@@ -63,7 +65,7 @@ Create a new repository on Github, then execute the following commands to link t
 
 ```
 $ cd modern-react-with-redux
-$ git submodule add -b main git@github.com:ensomugnog/mrwr-quick-practice-with-jsx.git
+$ git submodule add -b main git@github.com:ensomugnog/mrwr-practice-jsx-conversion.git
 ```
 
 Using the **-b** argument means we want to follow the main branch of the new repository, and after running this command we’ll have a new directory named `mrwr-submodule/`, this directory will automaticaly checkout the main branch for you to be ready to make changes.
