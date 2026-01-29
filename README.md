@@ -49,6 +49,8 @@ Master React and Redux. Apply modern design patterns to build apps with React Ro
 
   - [x] 07 - Typical Component Layouts [ [mrwr-jsx](https://github.com/ensomugnog/mrwr-jsx) -> [1d0e679edf90ef3de9f269b970c85bca28d3656e](https://github.com/ensomugnog/mrwr-jsx/commit/1d0e679edf90ef3de9f269b970c85bca28d3656e) ]
 
+  - [x] 08 - Customizing Elements with Props [ [mrwr-jsx](https://github.com/ensomugnog/mrwr-jsx) -> [1012516dd6776864a8f969ab14c6daedb52cc9dd](https://github.com/ensomugnog/mrwr-jsx/commit/1012516dd6776864a8f969ab14c6daedb52cc9dd) ]
+
 ## Repository configuration
 Each submodule in this repository contains the code examples of the original course.
 
