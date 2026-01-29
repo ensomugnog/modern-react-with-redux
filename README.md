@@ -51,6 +51,8 @@ Master React and Redux. Apply modern design patterns to build apps with React Ro
 
   - [x] 08 - Customizing Elements with Props [ [mrwr-jsx](https://github.com/ensomugnog/mrwr-jsx) -> [1012516dd6776864a8f969ab14c6daedb52cc9dd](https://github.com/ensomugnog/mrwr-jsx/commit/1012516dd6776864a8f969ab14c6daedb52cc9dd) ]
 
+  - [x] 09 - Converting HTML to JSX [ [mrwr-jsx](https://github.com/ensomugnog/mrwr-jsx) -> [daef59cc400854dabb2bc72241024f19bb643f95](https://github.com/ensomugnog/mrwr-jsx/commit/daef59cc400854dabb2bc72241024f19bb643f95) ]
+
 ## Repository configuration
 Each submodule in this repository contains the code examples of the original course.
 
