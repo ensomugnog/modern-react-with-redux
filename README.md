@@ -1,4 +1,4 @@
-# MRWR - Modern React with Redux 2024-01 (Stephen Grider) - 3.7% Complete
+# MRWR - Modern React with Redux (Stephen Grider) - 3.7% Complete
 Master React and Redux. Apply modern design patterns to build apps with React Router, TailwindCSS, Context, and Hooks!
 
 **Course**: [https://www.udemy.com/course/react-redux](https://www.udemy.com/course/react-redux)
@@ -62,6 +62,8 @@ Master React and Redux. Apply modern design patterns to build apps with React Ro
   - [x] 13 - Module Systems Overview
 
   - [x] 14 - Cheatsheet for JSX
+
+  - [x] 005 - Showing Javascript Values in JSX
 
 ## Repository Configuration
 Each submodule in this repository contains the code examples of the original course.
