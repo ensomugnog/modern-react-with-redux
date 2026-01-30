@@ -59,6 +59,7 @@ Master React and Redux. Apply modern design patterns to build apps with React Ro
 
   - [x] 12 - Extracting Components [ [mrwr-jsx](https://github.com/ensomugnog/mrwr-jsx) -> [e7bdff482e5d04385ba9ba215718c9482c908fcf](https://github.com/ensomugnog/mrwr-jsx/commit/e7bdff482e5d04385ba9ba215718c9482c908fcf) ]
 
+  - [x] 13 - Module Systems Overview
 ## Repository Configuration
 Each submodule in this repository contains the code examples of the original course.
 
