@@ -85,6 +85,8 @@ Master React and Redux. Apply modern design patterns to build apps with React Ro
 
   - [x] 04 - Introducing the Props System
 
+  - [x] 05 - Picturing the Movement of Data
+
 ## Repository Configuration
 Each submodule in this repository contains the code examples of the original course.
 
