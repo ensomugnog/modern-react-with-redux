@@ -77,6 +77,8 @@ Master React and Redux. Apply modern design patterns to build apps with React Ro
 
 - [x] 03 - Building with Reusable Components
 
+  - [x] 01 - Reminder on Generating a Project with Vite
+
 ## Repository Configuration
 Each submodule in this repository contains the code examples of the original course.
 
