@@ -87,6 +87,8 @@ Master React and Redux. Apply modern design patterns to build apps with React Ro
 
   - [x] 05 - Picturing the Movement of Data
 
+  - [x] 06 - Adding Props [ [mrwr-pdas](https://github.com/ensomugnog/mrwr-pdas) -> [c874b259bec80967c56579bad6edafc6ecec8c9b](https://github.com/ensomugnog/mrwr-pdas/commit/c874b259bec80967c56579bad6edafc6ecec8c9b) ]
+
 ## Repository Configuration
 Each submodule in this repository contains the code examples of the original course.
 
