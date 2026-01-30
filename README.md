@@ -65,6 +65,8 @@ Master React and Redux. Apply modern design patterns to build apps with React Ro
 
   - [x] 005 - Showing Javascript Values in JSX
 
+  - [x] 007 - Quick Practice with JSX
+
 ## Repository Configuration
 Each submodule in this repository contains the code examples of the original course.
 
