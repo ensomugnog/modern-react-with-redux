@@ -14,3 +14,7 @@
 	path = mrwr-practice-jsx-conversion
 	url = git@github.com:ensomugnog/mrwr-practice-jsx-conversion.git
 	branch = main
+[submodule "mrwr-pdas"]
+	path = mrwr-pdas
+	url = git@github.com:ensomugnog/mrwr-pdas.git
+	branch = main

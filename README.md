@@ -79,6 +79,8 @@ Master React and Redux. Apply modern design patterns to build apps with React Ro
 
   - [x] 01 - Reminder on Generating a Project with Vite
 
+  - [x] 02 - Project Overview [ [mrwr-pdas](https://github.com/ensomugnog/mrwr-pdas) -> [b3568943beccf5a6afb1174f2825e7f6fad2946f](https://github.com/ensomugnog/mrwr-pdas/commit/b3568943beccf5a6afb1174f2825e7f6fad2946f) ]
+
 ## Repository Configuration
 Each submodule in this repository contains the code examples of the original course.
 
@@ -87,7 +89,7 @@ Create a new repository on Github, then execute the following commands to link t
 
 ```
 $ cd modern-react-with-redux
-$ git submodule add -b main git@github.com:ensomugnog/mrwr-practice-jsx-conversion.git
+$ git submodule add -b main git@github.com:ensomugnog/mrwr-pdas.git
 ```
 
 Using the **-b** argument means we want to follow the main branch of the new repository, and after running this command we’ll have a new directory named `mrwr-submodule/`, this directory will automaticaly checkout the main branch for you to be ready to make changes.
