@@ -81,6 +81,8 @@ Master React and Redux. Apply modern design patterns to build apps with React Ro
 
   - [x] 02 - Project Overview [ [mrwr-pdas](https://github.com/ensomugnog/mrwr-pdas) -> [b3568943beccf5a6afb1174f2825e7f6fad2946f](https://github.com/ensomugnog/mrwr-pdas/commit/b3568943beccf5a6afb1174f2825e7f6fad2946f) ]
 
+  - [x] 03 - Creating Core Components [ [mrwr-pdas](https://github.com/ensomugnog/mrwr-pdas) -> [2e19e377824edec5469d835a969caf8fae80d42d](https://github.com/ensomugnog/mrwr-pdas/commit/2e19e377824edec5469d835a969caf8fae80d42d) ]
+
 ## Repository Configuration
 Each submodule in this repository contains the code examples of the original course.
 
