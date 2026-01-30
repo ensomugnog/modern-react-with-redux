@@ -69,6 +69,8 @@ Master React and Redux. Apply modern design patterns to build apps with React Ro
 
   - [x] 013 - More on JSX
 
+  - [x] 014 - Practice JSX Conversion
+
 ## Repository Configuration
 Each submodule in this repository contains the code examples of the original course.
 
