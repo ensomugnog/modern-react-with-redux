@@ -89,6 +89,8 @@ Master React and Redux. Apply modern design patterns to build apps with React Ro
 
   - [x] 06 - Adding Props [ [mrwr-pdas](https://github.com/ensomugnog/mrwr-pdas) -> [c874b259bec80967c56579bad6edafc6ecec8c9b](https://github.com/ensomugnog/mrwr-pdas/commit/c874b259bec80967c56579bad6edafc6ecec8c9b) ]
 
+  - [X] 07 - Using Argument Destructuring [ [mrwr-pdas](https://github.com/ensomugnog/mrwr-pdas) -> [5abd37c9bcc37fcdb4f60cf2d434e828f61ead5c](https://github.com/ensomugnog/mrwr-pdas/commit/5abd37c9bcc37fcdb4f60cf2d434e828f61ead5c) ]
+
 ## Repository Configuration
 Each submodule in this repository contains the code examples of the original course.
 
