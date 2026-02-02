@@ -111,6 +111,8 @@ Master React and Redux. Apply modern design patterns to build apps with React Ro
 
   - [x] 17 - Last Bit of Styling [ [mrwr-pdas](https://github.com/ensomugnog/mrwr-pdas) -> [1e0dd6cd995d56c5fbf841ad8352858867936c29](https://github.com/ensomugnog/mrwr-pdas/commit/1e0dd6cd995d56c5fbf841ad8352858867936c29) ]
 
+  - [x] 008 - Practice with Props
+
 ## Repository Configuration
 Each submodule in this repository contains the code examples of the original course.
 
