@@ -109,6 +109,8 @@ Master React and Redux. Apply modern design patterns to build apps with React Ro
 
   - [x] 16 - A Big Pile of HTML! [ [mrwr-pdas](https://github.com/ensomugnog/mrwr-pdas) -> [2f259ba069ba45e5c651410976eccee75c3c81bc](https://github.com/ensomugnog/mrwr-pdas/commit/2f259ba069ba45e5c651410976eccee75c3c81bc) ]
 
+  - [x] 17 - Last Bit of Styling [ [mrwr-pdas](https://github.com/ensomugnog/mrwr-pdas) -> [1e0dd6cd995d56c5fbf841ad8352858867936c29](https://github.com/ensomugnog/mrwr-pdas/commit/1e0dd6cd995d56c5fbf841ad8352858867936c29) ]
+
 ## Repository Configuration
 Each submodule in this repository contains the code examples of the original course.
 
