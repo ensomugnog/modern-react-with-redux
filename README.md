@@ -93,6 +93,8 @@ Master React and Redux. Apply modern design patterns to build apps with React Ro
 
   - [x] 08 - Exercise Solution [ [mrwr-practice-with-props](https://github.com/ensomugnog/mrwr-practice-with-props) -> [36b662ee27abb21da3af0c59b4b4c7d09e0db846](https://github.com/ensomugnog/mrwr-practice-with-props/commit/36b662ee27abb21da3af0c59b4b4c7d09e0db846) ]
 
+  - [x] 09 - The React Developer Tools
+
 ## Repository Configuration
 Each submodule in this repository contains the code examples of the original course.
 
