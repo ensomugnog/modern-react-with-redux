@@ -105,6 +105,8 @@ Master React and Redux. Apply modern design patterns to build apps with React Ro
 
   - [x] 14 - Review on how CSS Works
 
+  - [x] 15 - Adding CSS Libraries with NPM [ [mrwr-pdas](https://github.com/ensomugnog/mrwr-pdas) -> [918b9d8fcb12e528077fb08626d9eea577023e94](https://github.com/ensomugnog/mrwr-pdas/commit/918b9d8fcb12e528077fb08626d9eea577023e94) ]
+
 ## Repository Configuration
 Each submodule in this repository contains the code examples of the original course.
 
