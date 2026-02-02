@@ -18,3 +18,7 @@
 	path = mrwr-pdas
 	url = git@github.com:ensomugnog/mrwr-pdas.git
 	branch = main
+[submodule "mrwr-practice-with-props"]
+	path = mrwr-practice-with-props
+	url = git@github.com:ensomugnog/mrwr-practice-with-props.git
+	branch = main
