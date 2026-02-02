@@ -95,6 +95,8 @@ Master React and Redux. Apply modern design patterns to build apps with React Ro
 
   - [x] 09 - The React Developer Tools
 
+  - [x] 10 - The Most Common Props Mistake
+
 ## Repository Configuration
 Each submodule in this repository contains the code examples of the original course.
 
