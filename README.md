@@ -103,6 +103,8 @@ Master React and Redux. Apply modern design patterns to build apps with React Ro
 
   - [x] 13 - Handling Image Accessibility [ [mrwr-pdas](https://github.com/ensomugnog/mrwr-pdas) -> [17a50aa1a1a8ea32efa47ac5a881809b5fd25844](https://github.com/ensomugnog/mrwr-pdas/commit/17a50aa1a1a8ea32efa47ac5a881809b5fd25844) ]
 
+  - [x] 14 - Review on how CSS Works
+
 ## Repository Configuration
 Each submodule in this repository contains the code examples of the original course.
 
