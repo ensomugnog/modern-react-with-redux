@@ -125,6 +125,8 @@ Master React and Redux. Apply modern design patterns to build apps with React Ro
 
   - [x] 02 - App Overview [ [mrwr-animals](https://github.com/ensomugnog/mrwr-animals) -> [20e68a7a9f2ceb5df61903b55849383e8c8432a0](https://github.com/ensomugnog/mrwr-animals/commit/20e68a7a9f2ceb5df61903b55849383e8c8432a0) ]
 
+  - [x] 03 - Initial App Setup [ [mrwr-animals](https://github.com/ensomugnog/mrwr-animals) -> [35edfd41d8a5eaa8b63f651fb1d8715789a3ec67](https://github.com/ensomugnog/mrwr-animals/commit/35edfd41d8a5eaa8b63f651fb1d8715789a3ec67) ]
+
 ## Repository Configuration
 Each submodule in this repository contains the code examples of the original course.
 
