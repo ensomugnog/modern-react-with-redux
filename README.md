@@ -129,6 +129,8 @@ Master React and Redux. Apply modern design patterns to build apps with React Ro
 
   - [x] 04 - Introducing the Event System [ [mrwr-animals](https://github.com/ensomugnog/mrwr-animals) -> [3a201ac0066f36996e4de1abf3bed8e4dfd90945](https://github.com/ensomugnog/mrwr-animals/commit/3a201ac0066f36996e4de1abf3bed8e4dfd90945) ]
 
+  - [x] 05 - Events in Detail
+
 ## Repository Configuration
 Each submodule in this repository contains the code examples of the original course.
 
