@@ -26,3 +26,7 @@
 	path = mrwr-animals
 	url = git@github.com:ensomugnog/mrwr-animals.git
 	branch = main
+[submodule "mrwr-exercise-with-events"]
+	path = mrwr-exercise-with-events
+	url = git@github.com:ensomugnog/mrwr-exercise-with-events.git
+	branch = main

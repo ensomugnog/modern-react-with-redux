@@ -133,6 +133,8 @@ Master React and Redux. Apply modern design patterns to build apps with React Ro
 
   - [x] 06 - Variations on Event Handlers
 
+  - [x] 07 - Exercise Solution [ [mrwr-exercise-with-events](https://github.com/ensomugnog/mrwr-exercise-with-events) -> [1fb5de3ebae32f84ed6a1ef522474c4b7b40da9a](https://github.com/ensomugnog/mrwr-exercise-with-events/commit/1fb5de3ebae32f84ed6a1ef522474c4b7b40da9a) ]
+
 ## Repository Configuration
 Each submodule in this repository contains the code examples of the original course.
 
@@ -141,7 +143,7 @@ Create a new repository on Github, then execute the following commands to link t
 
 ```
 $ cd modern-react-with-redux
-$ git submodule add -b main git@github.com:ensomugnog/mrwr-animals.git
+$ git submodule add -b main git@github.com:ensomugnog/mrwr-exercise-with-events.git
 ```
 
 Using the **-b** argument means we want to follow the main branch of the new repository, and after running this command we’ll have a new directory named `mrwr-submodule/`, this directory will automaticaly checkout the main branch for you to be ready to make changes.
