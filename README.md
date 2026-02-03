@@ -131,6 +131,8 @@ Master React and Redux. Apply modern design patterns to build apps with React Ro
 
   - [x] 05 - Events in Detail
 
+  - [x] 06 - Variations on Event Handlers
+
 ## Repository Configuration
 Each submodule in this repository contains the code examples of the original course.
 
