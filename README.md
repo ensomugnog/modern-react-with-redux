@@ -123,6 +123,8 @@ Master React and Redux. Apply modern design patterns to build apps with React Ro
 
   - [x] 01 - Reminder on Generating a Project with Vite
 
+  - [x] 02 - App Overview [ [mrwr-animals](https://github.com/ensomugnog/mrwr-animals) -> [20e68a7a9f2ceb5df61903b55849383e8c8432a0](https://github.com/ensomugnog/mrwr-animals/commit/20e68a7a9f2ceb5df61903b55849383e8c8432a0) ]
+
 ## Repository Configuration
 Each submodule in this repository contains the code examples of the original course.
 
@@ -131,7 +133,7 @@ Create a new repository on Github, then execute the following commands to link t
 
 ```
 $ cd modern-react-with-redux
-$ git submodule add -b main git@github.com:ensomugnog/mrwr-practice-with-props.git
+$ git submodule add -b main git@github.com:ensomugnog/mrwr-animals.git
 ```
 
 Using the **-b** argument means we want to follow the main branch of the new repository, and after running this command we’ll have a new directory named `mrwr-submodule/`, this directory will automaticaly checkout the main branch for you to be ready to make changes.

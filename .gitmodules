@@ -22,3 +22,7 @@
 	path = mrwr-practice-with-props
 	url = git@github.com:ensomugnog/mrwr-practice-with-props.git
 	branch = main
+[submodule "mrwr-animals"]
+	path = mrwr-animals
+	url = git@github.com:ensomugnog/mrwr-animals.git
+	branch = main
