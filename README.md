@@ -135,6 +135,8 @@ Master React and Redux. Apply modern design patterns to build apps with React Ro
 
   - [x] 07 - Exercise Solution [ [mrwr-exercise-with-events](https://github.com/ensomugnog/mrwr-exercise-with-events) -> [1fb5de3ebae32f84ed6a1ef522474c4b7b40da9a](https://github.com/ensomugnog/mrwr-exercise-with-events/commit/1fb5de3ebae32f84ed6a1ef522474c4b7b40da9a) ]
 
+  - [x] 08 - Introducing the State System [ [mrwr-animals](https://github.com/ensomugnog/mrwr-animals) -> [650e5855eb45bba2592b24eca5fa6fbb3811a1ae](https://github.com/ensomugnog/mrwr-animals/commit/650e5855eb45bba2592b24eca5fa6fbb3811a1ae) ]
+
 ## Repository Configuration
 Each submodule in this repository contains the code examples of the original course.
 
