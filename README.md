@@ -141,6 +141,8 @@ Master React and Redux. Apply modern design patterns to build apps with React Ro
 
   - [x] 10 - Understanding the Re-Rendering Process
 
+  - [x] 11 - Why Array Destructuring
+
 ## Repository Configuration
 Each submodule in this repository contains the code examples of the original course.
 
