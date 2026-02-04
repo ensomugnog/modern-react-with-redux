@@ -147,6 +147,8 @@ Master React and Redux. Apply modern design patterns to build apps with React Ro
 
   - [x] 13 - Picking a Random Element [ [mrwr-animals](https://github.com/ensomugnog/mrwr-animals) -> [4e3a7bc934d215c0a6e0efa2acaf6f521d83e046](https://github.com/ensomugnog/mrwr-animals/commit/4e3a7bc934d215c0a6e0efa2acaf6f521d83e046) ]
 
+  - [x] 14 - List Building in React [ [mrwr-animals](https://github.com/ensomugnog/mrwr-animals) -> [11452f5a184645260a719025b4df4b9f02c3b29a](https://github.com/ensomugnog/mrwr-animals/commit/11452f5a184645260a719025b4df4b9f02c3b29a) ]
+
 ## Repository Configuration
 Each submodule in this repository contains the code examples of the original course.
 
