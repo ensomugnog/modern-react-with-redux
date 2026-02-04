@@ -137,6 +137,8 @@ Master React and Redux. Apply modern design patterns to build apps with React Ro
 
   - [x] 08 - Introducing the State System [ [mrwr-animals](https://github.com/ensomugnog/mrwr-animals) -> [650e5855eb45bba2592b24eca5fa6fbb3811a1ae](https://github.com/ensomugnog/mrwr-animals/commit/650e5855eb45bba2592b24eca5fa6fbb3811a1ae) ]
 
+  - [X] 09 - More on State
+
 ## Repository Configuration
 Each submodule in this repository contains the code examples of the original course.
 
