@@ -139,6 +139,8 @@ Master React and Redux. Apply modern design patterns to build apps with React Ro
 
   - [X] 09 - More on State
 
+  - [x] 10 - Understanding the Re-Rendering Process
+
 ## Repository Configuration
 Each submodule in this repository contains the code examples of the original course.
 
