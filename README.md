@@ -151,6 +151,8 @@ Master React and Redux. Apply modern design patterns to build apps with React Ro
 
   - [x] 15 - Images for the App
 
+  - [x] 16 - Loading and Showing SVGs [ [mrwr-animals](https://github.com/ensomugnog/mrwr-animals) -> [775f65a2acc9c0ed4e4b9edacdcc8e1fdd098083](https://github.com/ensomugnog/mrwr-animals/commit/775f65a2acc9c0ed4e4b9edacdcc8e1fdd098083) ]
+
 ## Repository Configuration
 Each submodule in this repository contains the code examples of the original course.
 
