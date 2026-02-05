@@ -149,6 +149,8 @@ Master React and Redux. Apply modern design patterns to build apps with React Ro
 
   - [x] 14 - List Building in React [ [mrwr-animals](https://github.com/ensomugnog/mrwr-animals) -> [11452f5a184645260a719025b4df4b9f02c3b29a](https://github.com/ensomugnog/mrwr-animals/commit/11452f5a184645260a719025b4df4b9f02c3b29a) ]
 
+  - [x] 15 - Images for the App
+
 ## Repository Configuration
 Each submodule in this repository contains the code examples of the original course.
 
