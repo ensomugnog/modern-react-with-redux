@@ -157,6 +157,8 @@ Master React and Redux. Apply modern design patterns to build apps with React Ro
 
   - [x] 18 - Adding Custom CSS [ [mrwr-animals](https://github.com/ensomugnog/mrwr-animals) -> [25f778b604663765431f82b66cc29fea13a8f77e](https://github.com/ensomugnog/mrwr-animals/commit/25f778b604663765431f82b66cc29fea13a8f77e) ]
 
+  - [x] 19 - Finalizing Styling [ [mrwr-animals](https://github.com/ensomugnog/mrwr-animals) -> [678819fc1aa66e37e2a5309010c3a042fd911f3d](https://github.com/ensomugnog/mrwr-animals/commit/678819fc1aa66e37e2a5309010c3a042fd911f3d) ]
+
 ## Repository Configuration
 Each submodule in this repository contains the code examples of the original course.
 
