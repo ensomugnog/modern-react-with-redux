@@ -155,6 +155,8 @@ Master React and Redux. Apply modern design patterns to build apps with React Ro
 
   - [x] 17 - Increasing Image Size [ [mrwr-animals](https://github.com/ensomugnog/mrwr-animals) -> [b50317501c6afabef79bda437370e4acf14ca417](https://github.com/ensomugnog/mrwr-animals/commit/b50317501c6afabef79bda437370e4acf14ca417) ]
 
+  - [x] 18 - Adding Custom CSS [ [mrwr-animals](https://github.com/ensomugnog/mrwr-animals) -> [25f778b604663765431f82b66cc29fea13a8f77e](https://github.com/ensomugnog/mrwr-animals/commit/25f778b604663765431f82b66cc29fea13a8f77e) ]
+
 ## Repository Configuration
 Each submodule in this repository contains the code examples of the original course.
 
