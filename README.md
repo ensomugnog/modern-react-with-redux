@@ -159,6 +159,8 @@ Master React and Redux. Apply modern design patterns to build apps with React Ro
 
   - [x] 19 - Finalizing Styling [ [mrwr-animals](https://github.com/ensomugnog/mrwr-animals) -> [678819fc1aa66e37e2a5309010c3a042fd911f3d](https://github.com/ensomugnog/mrwr-animals/commit/678819fc1aa66e37e2a5309010c3a042fd911f3d) ]
 
+  - [x] 20 - App Wrapup and Review
+
 ## Repository Configuration
 Each submodule in this repository contains the code examples of the original course.
 
