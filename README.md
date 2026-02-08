@@ -3,7 +3,7 @@ Master React and Redux. Apply modern design patterns to build apps with React Ro
 
 **Course**: [https://www.udemy.com/course/react-redux](https://www.udemy.com/course/react-redux)
 
-## Course Progress: 11%
+## Course Progress: 15%
 
 ## Course Content
 
@@ -168,6 +168,8 @@ Master React and Redux. Apply modern design patterns to build apps with React Ro
   - [x] 013 - Got These Five Points
 
   - [x] assets
+
+- [x] 05 - Using an API with React
 
 ## Repository Configuration
 Each submodule in this repository contains the code examples of the original course.
