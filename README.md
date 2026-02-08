@@ -181,6 +181,8 @@ Master React and Redux. Apply modern design patterns to build apps with React Ro
 
   - [x] 05 - Overview of HTTP Requests
 
+  - [x] 07 - Understanding the API
+
 ## Repository Configuration
 Each submodule in this repository contains the code examples of the original course.
 
