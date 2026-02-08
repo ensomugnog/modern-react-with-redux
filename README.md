@@ -171,6 +171,8 @@ Master React and Redux. Apply modern design patterns to build apps with React Ro
 
 - [x] 05 - Using an API with React
 
+  - [x] 01 - App Overview [ [mrwr-pics](https://github.com/ensomugnog/mrwr-pics) -> [a454e140b14b222f48e46808e8eb484ab7cadfad](https://github.com/ensomugnog/mrwr-pics/commit/a454e140b14b222f48e46808e8eb484ab7cadfad) ]
+
 ## Repository Configuration
 Each submodule in this repository contains the code examples of the original course.
 
@@ -179,7 +181,7 @@ Create a new repository on Github, then execute the following commands to link t
 
 ```
 $ cd modern-react-with-redux
-$ git submodule add -b main git@github.com:ensomugnog/mrwr-exercise-with-events.git
+$ git submodule add -b main git@github.com:ensomugnog/mrwr-pics.git
 ```
 
 Using the **-b** argument means we want to follow the main branch of the new repository, and after running this command we’ll have a new directory named `mrwr-submodule/`, this directory will automaticaly checkout the main branch for you to be ready to make changes.

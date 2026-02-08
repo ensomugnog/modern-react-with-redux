@@ -30,3 +30,7 @@
 	path = mrwr-exercise-with-events
 	url = git@github.com:ensomugnog/mrwr-exercise-with-events.git
 	branch = main
+[submodule "mrwr-pics"]
+	path = mrwr-pics
+	url = git@github.com:ensomugnog/mrwr-pics.git
+	branch = main
