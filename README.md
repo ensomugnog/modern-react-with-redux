@@ -167,6 +167,8 @@ Master React and Redux. Apply modern design patterns to build apps with React Ro
 
   - [x] 013 - Got These Five Points
 
+  - [x] assets
+
 ## Repository Configuration
 Each submodule in this repository contains the code examples of the original course.
 
