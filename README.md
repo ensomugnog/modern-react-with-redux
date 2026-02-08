@@ -173,7 +173,9 @@ Master React and Redux. Apply modern design patterns to build apps with React Ro
 
   - [x] 01 - App Overview [ [mrwr-pics](https://github.com/ensomugnog/mrwr-pics) -> [a454e140b14b222f48e46808e8eb484ab7cadfad](https://github.com/ensomugnog/mrwr-pics/commit/a454e140b14b222f48e46808e8eb484ab7cadfad) ]
 
-  - [✓] 02 - Reminder on Generating a Project with Vite
+  - [x] 02 - Reminder on Generating a Project with Vite
+
+  - [x] 03 - Project Setup [ [mrwr-pics](https://github.com/ensomugnog/mrwr-pics) -> [53496760e24259dee93de8855310616652376be8](https://github.com/ensomugnog/mrwr-pics/commit/53496760e24259dee93de8855310616652376be8) ]
 
 ## Repository Configuration
 Each submodule in this repository contains the code examples of the original course.
