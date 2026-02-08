@@ -161,6 +161,8 @@ Master React and Redux. Apply modern design patterns to build apps with React Ro
 
   - [x] 20 - App Wrapup and Review
 
+  - [x] 007 - Quiz on Events
+
 ## Repository Configuration
 Each submodule in this repository contains the code examples of the original course.
 
