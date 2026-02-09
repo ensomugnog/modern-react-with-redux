@@ -195,6 +195,8 @@ Master React and Redux. Apply modern design patterns to build apps with React Ro
 
   - [x] 13 - Implementing Child to Parent Communication [ [mrwr-pics](https://github.com/ensomugnog/mrwr-pics) -> [097973d50caa4506c2eb0f78da4f2621c071dba6](https://github.com/ensomugnog/mrwr-pics/commit/097973d50caa4506c2eb0f78da4f2621c071dba6) ]
 
+  - [x] 14 - Handling Form Submission [ [mrwr-pics](https://github.com/ensomugnog/mrwr-pics) -> [9330911f2851064c55d21f803d913b4d0c14e9b2](https://github.com/ensomugnog/mrwr-pics/commit/9330911f2851064c55d21f803d913b4d0c14e9b2) ]
+
 ## Repository Configuration
 Each submodule in this repository contains the code examples of the original course.
 
