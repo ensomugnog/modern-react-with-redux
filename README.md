@@ -185,6 +185,8 @@ Master React and Redux. Apply modern design patterns to build apps with React Ro
 
   - [x] 08 - Making an HTTP Request [ [mrwr-pics](https://github.com/ensomugnog/mrwr-pics) -> [8a4114f503ab94ae272944dcb406b1ac080cf392](https://github.com/ensomugnog/mrwr-pics/commit/8a4114f503ab94ae272944dcb406b1ac080cf392) ]
 
+  ' [x] 09 - [Optional] Using AsyncAwait    
+
 ## Repository Configuration
 Each submodule in this repository contains the code examples of the original course.
 
