@@ -34,3 +34,7 @@
 	path = mrwr-pics
 	url = git@github.com:ensomugnog/mrwr-pics.git
 	branch = main
+[submodule "mrwr-creating-a-controlled-input"]
+	path = mrwr-creating-a-controlled-input
+	url = git@github.com:ensomugnog/mrwr-creating-a-controlled-input.git
+	branch = main

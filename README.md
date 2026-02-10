@@ -201,6 +201,8 @@ Master React and Redux. Apply modern design patterns to build apps with React Ro
 
   - [x] 16 - [Optional]  OK But Why
 
+  - [x] 17 - Exercise Solution [ [mrwr-creating-a-controlled-input](https://github.com/ensomugnog/mrwr-creating-a-controlled-input) -> [918a923ff8557d0521ddb01e8cdedad16e28c5ad](https://github.com/ensomugnog/mrwr-creating-a-controlled-input/commit/918a923ff8557d0521ddb01e8cdedad16e28c5ad) ]
+
 ## Repository Configuration
 Each submodule in this repository contains the code examples of the original course.
 
@@ -209,7 +211,7 @@ Create a new repository on Github, then execute the following commands to link t
 
 ```
 $ cd modern-react-with-redux
-$ git submodule add -b main git@github.com:ensomugnog/mrwr-pics.git
+$ git submodule add -b main git@github.com:ensomugnog/mrwr-creating-a-controlled-input.git
 ```
 
 Using the **-b** argument means we want to follow the main branch of the new repository, and after running this command we’ll have a new directory named `mrwr-submodule/`, this directory will automaticaly checkout the main branch for you to be ready to make changes.
