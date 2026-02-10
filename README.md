@@ -197,6 +197,8 @@ Master React and Redux. Apply modern design patterns to build apps with React Ro
 
   - [x] 14 - Handling Form Submission [ [mrwr-pics](https://github.com/ensomugnog/mrwr-pics) -> [9330911f2851064c55d21f803d913b4d0c14e9b2](https://github.com/ensomugnog/mrwr-pics/commit/9330911f2851064c55d21f803d913b4d0c14e9b2) ]
 
+  - [x] 15 - Handling Input Elements [ [mrwr-pics](https://github.com/ensomugnog/mrwr-pics) -> [25554dfe5b63e50d04fb8ed2a120ad304403b5ec](https://github.com/ensomugnog/mrwr-pics/commit/25554dfe5b63e50d04fb8ed2a120ad304403b5ec) ]
+
 ## Repository Configuration
 Each submodule in this repository contains the code examples of the original course.
 
