@@ -199,6 +199,8 @@ Master React and Redux. Apply modern design patterns to build apps with React Ro
 
   - [x] 15 - Handling Input Elements [ [mrwr-pics](https://github.com/ensomugnog/mrwr-pics) -> [25554dfe5b63e50d04fb8ed2a120ad304403b5ec](https://github.com/ensomugnog/mrwr-pics/commit/25554dfe5b63e50d04fb8ed2a120ad304403b5ec) ]
 
+  - [x] 16 - [Optional]  OK But Why
+
 ## Repository Configuration
 Each submodule in this repository contains the code examples of the original course.
 
